@@ -3,6 +3,8 @@ This project is part of the course "Analysis and Design of Information Systems" 
 
 Team 57:
 
-Στέφανος Βόικος 03118162
-Άγγελος Μητροκώτσας 03118197
+Στέφανος Βόικος 03118162,
+
+Άγγελος Μητροκώτσας 03118197, 
+
 Χρήστος Μαρρές 03118192
